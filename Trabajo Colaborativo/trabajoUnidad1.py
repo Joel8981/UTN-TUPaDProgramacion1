@@ -1,6 +1,6 @@
 #EJERCICIO 1
 saludo = "Mundo"
-print("Hola " + saludo)
+print("Hola " + saludo + "!")
 
 #EJERCICIO 2
 nombre = input("Ingresa tu nombre: ") #ejercicio 2
