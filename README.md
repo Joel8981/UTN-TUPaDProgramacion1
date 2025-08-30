@@ -1,2 +1,2 @@
 # UTN-TUPaDProgramacion1
-Esta carpeta sera para adjuntar todos los trabajos de programacion con python
+Hola! Mi Nombre es Joel Alvarez. Esta sera mi carpeta para adjuntar mis ejercicios y practica de programacion con python, de la Universidad Tecnologica Nacional
