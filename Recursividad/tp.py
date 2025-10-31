@@ -1,3 +1,4 @@
+'''
 #EJERCICIO 1
 def calcular_factorial(n):
     if n == 0:
@@ -113,7 +114,7 @@ cant_bloques = int(input("Ingresa un numero de bloques para la base: "))
 
 print(f"Piramide con base {cant_bloques} : {(contar_bloques(cant_bloques))}")
 
-
+'''
 
 
 #EJERCICIO 8
@@ -141,4 +142,4 @@ numero = int(input("Ingresa un numero positivo: "))
 
 digito = int(input("Ingresa el digito a contar: "))
 
-print(f"El numero {numero} aparece : {(contar_digito(numero, digito))} veces")    
+print(f"El digito {numero} aparece : {(contar_digito(numero, digito))} veces")    
